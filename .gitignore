@@ -3,4 +3,8 @@ target/
 scala-bison.jar
 lib/*
 /project/lib/
+BisonParser.scala
+src/main/scala/edu/uwm/cs/scalabison/BisonParser.scala
+BisonTokens.scala
+src/main/scala/edu/uwm/cs/scalabison/BisonTokens.scala
 .cache
